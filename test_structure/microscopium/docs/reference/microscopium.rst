@@ -1,0 +1,5 @@
+microscopium
+=============================
+
+.. automodule:: microscopium
+    :members:
